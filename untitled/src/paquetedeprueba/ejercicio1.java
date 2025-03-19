@@ -2,6 +2,11 @@ package paquetedeprueba;
 
 public class ejercicio1 {
     public static void main(String[] args) {
-        System.out.println("hola mundo");
+        int arreglo []=new int[5];
+        for (int i=0; i<arreglo.length; i++){
+            arreglo[i]=i+1;
+            System.out.println(arreglo[i]);
+        }
+        System.out.println("que tal amigos");
     }
 }
