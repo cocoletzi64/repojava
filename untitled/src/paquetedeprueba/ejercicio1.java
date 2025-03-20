@@ -8,5 +8,6 @@ public class ejercicio1 {
             System.out.println(arreglo[i]);
         }
         System.out.println("que tal amigos");
+        System.out.println("buenas noches perros");
     }
 }
