@@ -9,5 +9,6 @@ public class ejercicio1 {
         }
         System.out.println("que tal amigos");
         System.out.println("buenas noches perros");
+        System.out.println("sabes");
     }
 }
